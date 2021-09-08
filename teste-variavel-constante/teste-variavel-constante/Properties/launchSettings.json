@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "teste-variavel-constante": {
+      "commandName": "Project",
+      "commandLineArgs": "22"
+    }
+  }
+}
