@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lista-de-compras": {
+      "commandName": "Project",
+      "commandLineArgs": "Pão Queijo Refri Carne Frango Leite"
+    }
+  }
+}
