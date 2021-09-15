@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "efetuar-pagamento": {
+      "commandName": "Project",
+      "commandLineArgs": "tenis camiseta calça"
+    }
+  }
+}

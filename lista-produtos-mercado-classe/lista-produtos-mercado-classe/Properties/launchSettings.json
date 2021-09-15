@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lista-produtos-mercado-classe": {
+      "commandName": "Project",
+      "commandLineArgs": "Pão Leite Queijo Arroz Linguiça"
+    }
+  }
+}
